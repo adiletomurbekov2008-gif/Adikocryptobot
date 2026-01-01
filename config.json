@@ -1,0 +1,7 @@
+{
+  "telegram_token":"8372924940:AAFVNO3nZZO0VHKCIFIVCZ3WGNRA8yOCgko",
+  "exchanges": ["binance", "kucoin", "bybit", "okx", "bitget", "mexc"],
+  "crypto_pairs": ["BTC/USDT", "ETH/USDT", "BNB/USDT", "SOL/USDT", "ADA/USDT", "DOGE/USDT"],
+  "alert_threshold": 1.5,
+  "check_interval_seconds": 60
+}
